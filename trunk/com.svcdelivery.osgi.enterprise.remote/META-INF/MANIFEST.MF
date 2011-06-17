@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Shoal Remote Service Provider
+Bundle-SymbolicName: com.svcdelivery.osgi.enterprise.remote
+Bundle-Version: 1.0.0
+Bundle-Activator: com.svcdelivery.osgi.enterprise.remote.internal.Activator
+Bundle-Vendor: SVC Delivery
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: com.sun.enterprise.ee.cms.core,
+ org.osgi.framework;version="1.3.0",
+ org.osgi.util.tracker;version="1.4.0"
+Export-Package: com.svcdelivery.osgi.enterprise.remote
