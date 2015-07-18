@@ -1,0 +1,1 @@
+This is a [Shoal](http://shoal.java.net/)-based implementation of the Enterprise OSGi Remote Services specification.
